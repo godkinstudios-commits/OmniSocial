@@ -1,0 +1,17 @@
+{
+  "short_name": "OmniPost",
+  "name": "OmniPost Social",
+  "icons": [
+    {
+      "src": "/logo.svg",
+      "type": "image/svg+xml",
+      "sizes": "512x512 192x192 64x64 32x32 24x24 16x16",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#ffffff",
+  "background_color": "#f8fafc",
+  "orientation": "portrait"
+}

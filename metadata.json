@@ -1,0 +1,8 @@
+{
+  "name": "OmniPost",
+  "description": "A beautiful, light-themed social posting app where you can share anything. Features AI-powered text enhancement, image sharing, and full mobile PWA installability.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
